@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6250f3dec8d5aeb4fba9e23673b03a6c, type: 3}
+  m_Name: 0250Miner
+  m_EditorClassIdentifier: 
+  ItemName: Miner
+  ItemPrice: 250
+  Thumbnail: {fileID: 21300000, guid: f583c09edc855ba4f93c2b5d7adae2fd, type: 3}
+  Model: {fileID: 49932819767969509, guid: 7380e1e7dca93ef42a8f46a00f385af9, type: 3}

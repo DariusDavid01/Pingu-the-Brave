@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6250f3dec8d5aeb4fba9e23673b03a6c, type: 3}
+  m_Name: 1500Crown
+  m_EditorClassIdentifier: 
+  ItemName: Coroana
+  ItemPrice: 1500
+  Thumbnail: {fileID: 21300000, guid: 8e5855e897ecbc940b1cb9ae87f99b36, type: 3}
+  Model: {fileID: 469445479665887228, guid: a13702ae37b917e49b108d3560ef816b, type: 3}

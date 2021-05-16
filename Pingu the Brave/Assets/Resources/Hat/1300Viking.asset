@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6250f3dec8d5aeb4fba9e23673b03a6c, type: 3}
+  m_Name: 1300Viking
+  m_EditorClassIdentifier: 
+  ItemName: Viking
+  ItemPrice: 1300
+  Thumbnail: {fileID: 21300000, guid: 39848e774d89b5242bfba6de9c6d96b9, type: 3}
+  Model: {fileID: 5730103285321447533, guid: 8c0591c9770b5034aa921ac923fbfd7c, type: 3}
